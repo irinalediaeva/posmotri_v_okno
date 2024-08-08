@@ -246,7 +246,7 @@ input[type="checkbox"]:checked + .search-form__pseudo-checkbox::after {
 .content__card-link {
   display: block;
   margin: 2px;
-  padding: 2px 0;
+  padding: 2px;
   text-decoration: none;
   color: #fff;
 }
